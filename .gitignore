@@ -1,4 +1,4 @@
 test-server.pem
-*.pem
-!.sumanth.pem
+*.mobile
+!roopesh.mobile
 
